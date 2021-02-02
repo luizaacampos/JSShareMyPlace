@@ -13,3 +13,5 @@ Para o desenvolvimento dessa aplicação utilizou-se o classes JavaScript, além
 A aplicação integra e consome dados da API do google maps.
 
 Para uma melhor performance também foram utilizados Babel e Webpack.
+
+Atualização: Back-end com Node.js e Mongodb adicionado para essa aplicação. Os arquivos se encontram no repositório 'NodeShareMyPlace'
